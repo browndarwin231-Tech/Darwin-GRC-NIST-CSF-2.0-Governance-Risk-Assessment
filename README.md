@@ -2,8 +2,6 @@
 
 Hands-on GRC project simulating a NIST CSF 2.0 governance and cybersecurity risk assessment, control mapping, gap analysis, and remediation planning.
 
-# NIST CSF 2.0 Governance & Risk Assessment Project
-
 ## Project Overview
 
 This project simulates a NIST Cybersecurity Framework 2.0 governance and risk assessment for a fictional SaaS organization called **CloudNova Technologies**.
