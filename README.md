@@ -226,6 +226,17 @@ Darwin-GRC-NIST-CSF-2.0-Governance-Risk-Assessment/
 ├── remediation_plan.md
 └── evidence/
 
+## Evidence Screenshots
+
+### NIST CSF 2.0 Governance Matrix
+![NIST CSF 2.0 Governance Matrix](evidence/nist-csf-governance-matrix.png)
+
+### NIST CSF 2.0 Gap Assessment
+![NIST CSF 2.0 Gap Assessment](evidence/nist-csf-gap-assessment.png)
+
+### NIST CSF 2.0 Risk Register
+![NIST CSF 2.0 Risk Register](evidence/nist-csf-risk-register.png)
+
 ## Skills Demonstrated
 
 - NIST CSF 2.0
